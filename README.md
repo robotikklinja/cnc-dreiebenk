@@ -1,2 +1,2 @@
 # CNC-Dreiebenk
-![](CNC-dreiebenk.jpg)
+![](Images/CNC-dreiebenk.jpg)
