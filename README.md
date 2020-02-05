@@ -14,10 +14,6 @@ CNC-Dreiebenken er et prosjekt som omhandler å gjøre om de manuelle dreiebenke
  Vi benytter oss av en Wantai stepper motor [57BYGH115-003](http://www.wantmotor.com/product/57bygh.html)
  
  
- 
- 
-
-
 
 ## Fremdriftsplan
 
@@ -29,3 +25,12 @@ CNC-Dreiebenken er et prosjekt som omhandler å gjøre om de manuelle dreiebenke
 - [ ] Sett sammen modellen med motorer og alle platene.
 - [ ] Jobb med software, i henhold til motorer, encodere og drivere. 
 - [ ] Test modellen med 3D-prints
+
+### Deler som er klar til fresing
+- [ ] Bunnplate.
+- [ ] Sideplate. 
+- [ ] Mellomleddsplate
+- [ ] Midtplate
+- [ ] Støtteplate lite hull
+- [ ] Støtteplate stort hull
+
