@@ -1,1 +1,3 @@
-
+# Gjøre filer frese klare
+Video som forklarer godt i steg hvordan en skal forberede filer. [Se video her](https://www.youtube.com/watch?v=whGKwsEY4Vo&t=306s)
+Derimot ved å ........ 
