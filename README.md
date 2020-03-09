@@ -17,21 +17,4 @@ CNC-Dreiebenken er et prosjekt som omhandler å gjøre om de manuelle dreiebenke
 
 ## Fremdriftsplan
 
-- [x] Lag en sketch for å sjekke om sporene til skinnene passer.
-- [ ] Test modellen med 3D-prints
-- [ ] Fres ut sketchen, og gjør endringer ut ifra resultatet. 
-- [ ] Lag sketcher for resten av modellen.
-- [ ] Finn/bestill deler som for eksempel skinner, motorer osv. 
-- [ ] Fres ut alle delene til modellen. 
-- [ ] Sett sammen modellen med motorer og alle platene.
-- [ ] Jobb med software, i henhold til motorer, encodere og drivere. 
-
-
-### Deler som er klar til fresing
-- [ ] Bunnplate.
-- [ ] Sideplate. 
-- [ ] Mellomleddsplate
-- [ ] Midtplate
-- [ ] Støtteplate lite hull
-- [ ] Støtteplate stort hull
-
+Se repo project for to do liste
